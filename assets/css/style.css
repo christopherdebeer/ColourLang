@@ -1,0 +1,25 @@
+body, html { margin:0; padding:0; }
+        
+body {
+    background: url("../img/colbackground.gif") top left repeat-x;
+}
+#moreinfo, #wrapper {
+    padding: 20px;
+    background-color: #fff;
+    width: 600px;
+    margin: 0 auto;
+}
+#moreinfo {margin-top:50px; }
+#translate { margin-top: 20px;}
+.col { line-height:1.8em;}
+
+.foot  {
+    text-align:center;
+    font-size:12px;
+}
+blockquote {
+    font-style: italic;
+    color: #333;
+}
+#cols {overflow:auto;}
+.column {float:left; width:250px;}

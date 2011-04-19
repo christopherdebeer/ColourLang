@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>ColourLang</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/js/colourlang.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+
+<body>
+    
+    <div id="wrapper">
+        <h1>ColourLang experiment <em>#p1</em></h1>
+        <p class="colourlang"><strong><em>Using colour as a language;</strong> inspired by <a href="http://aestheticsofjoy.com/2011/04/a-color-language/">Kyo Myoung Kim</a></em></p>
+        <form action="#" method="post">
+            <textarea name="original-text" id="original-text" cols="73" rows="10"></textarea><br />
+            <input id="clear" type="submit" value="Clear"/><input id="translate" type="submit" value="Translate"/>
+        </form>
+        <div id="output">
+            
+        </div>
+        
+        <p class="foot">An experiment by <a href="http://empirecollective.co.uk">Christopher de Beer</a> &copy; 2011</p>
+    </div>
+    <div id="moreinfo">
+        <h2>Explinations and process</h2>
+        <p>This page is just a rough experiment with the concept <em>of colour as language</em> after reading a blog post at <a href="http://aestheticsofjoy.com/2011/04/a-color-language/">Aesthetics of Joy</a>, where Ingrid looked at the work of Kyo Myoung Kim (I couldnt find a difinitive URL to link to). She spoke wonderfully about what such a language would look like, how it would function, and what it would mean to those that used it.</p>
+        <blockquote><p>"A reader would not actually need to understand the language to feel some of the meaning. Like spoken language, where we understand much from inflection, even in languages we’ve never heard before. One could flip through a book in this color language and feel the arc of the story, understanding the emotional narrative if not the descriptive one.</p>
+
+<p>This language also would mean the same speech might look different when uttered by a different speaker. I’m imagining a poem written in this language, transcribed as read by three different readers. How different these would look, but still comparable, because all the hues would be the same. Or imagine a small book, with a series of poems as read by two readers, the two variations facing each other across the pages." Ingrid of <a href="http://aestheticsofjoy.com/2011/04/a-color-language/">Aesthetics of Joy</a></p></blockquote>
+        <h2>The system</h2>
+        <p>This is the way I've gone about compiling the connections between roman letters and colours. Letters "a-z" are coloured by Hue, from "a" : 0 to "z" : 360. Capital letters have far more saturation than lower-case letters, Numbers are greysacale, ranging from light to dark, 0-9</p>
+        <p class="colourlang">abcdefghijklmnopqrstuvwxyz 0123456789 18 April 2010-2011</p>
+        
+        <p>This is just an experiment and I may elaborate on it in the future, it would be interesting to add NLP (Natural language processing) and Tone analysis, so as to grade the tone of words/sentences and adjust the saturation of characters accordingly, but this is just an idea, and I'm still considering which of the many available APIs to use for this.</p>
+        
+        
+        <p class="foot">An experiment by <a href="http://empirecollective.co.uk">Christopher de Beer</a> &copy; 2011</p>
+
+    </div>
+
+</body>
+</html>
