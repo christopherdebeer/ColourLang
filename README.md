@@ -2,9 +2,9 @@
 
 This page is just a rough experiment with the concept of colour as language after reading a blog post at [Aesthetics of Joy](http://aestheticsofjoy.com/2011/04/a-color-language/), where Ingrid looked at the work of Kyo Myoung Kim (I couldnt find a difinitive URL to link to). She spoke wonderfully about what such a language would look like, how it would function, and what it would mean to those that used it.
 
->"A reader would not actually need to understand the language to feel some of the meaning. Like spoken language, where we understand much from inflection, even in languages we’ve never heard before. One could flip through a book in this color language and feel the arc of the story, understanding the emotional narrative if not the descriptive one.
+>"A reader would not actually need to understand the language to feel some of the meaning. Like spoken language, where we understand much from inflection, even in languages we've never heard before. One could flip through a book in this color language and feel the arc of the story, understanding the emotional narrative if not the descriptive one.
 
->This language also would mean the same speech might look different when uttered by a different speaker. I’m imagining a poem written in this language, transcribed as read by three different readers. How different these would look, but still comparable, because all the hues would be the same. Or imagine a small book, with a series of poems as read by two readers, the two variations facing each other across the pages." [Ingrid of Aesthetics of Joy](http://aestheticsofjoy.com/2011/04/a-color-language/)
+>This language also would mean the same speech might look different when uttered by a different speaker. I'm imagining a poem written in this language, transcribed as read by three different readers. How different these would look, but still comparable, because all the hues would be the same. Or imagine a small book, with a series of poems as read by two readers, the two variations facing each other across the pages." [Ingrid of Aesthetics of Joy](http://aestheticsofjoy.com/2011/04/a-color-language/)
 
 
 # The system
